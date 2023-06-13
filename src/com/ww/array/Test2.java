@@ -1,2 +1,4 @@
-package com.ww.array;public class Test2 {
+package com.ww.array;
+
+public class Test2 {
 }
